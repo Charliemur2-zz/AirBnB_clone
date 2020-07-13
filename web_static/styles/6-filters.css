@@ -68,6 +68,7 @@ div.locations:hover .popover
     border: solid #DDDDDD 1px;
     border-radius: 4px;
     list-style: none;
+    margin: -7px 0 0 -40px;
 }
 div.amenities:hover .popover
 {
@@ -77,6 +78,7 @@ div.amenities:hover .popover
     border: solid #DDDDDD 1px;
     border-radius: 4px;
     list-style: none;
+    margin: -7px 0 0 -40px;
 }
 li
 {
